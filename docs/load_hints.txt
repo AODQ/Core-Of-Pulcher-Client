@@ -1,0 +1,82 @@
+It's possible to dash to six different directions: Up left, left, down left, up right, right, and down right.
+--
+Pressing up while dashing will propel you at an upward angle. Alternatively, pressing down will propel you at a downward angle.
+--
+There are two jumping types: Vertical (more height) and horizontal (faster acceleration).
+--
+You can hold jump key prior to landing & automatically jump. However, your speed will reset to what it was when you began holding jump.
+--
+While in the air, use upwards angled dashes to perform maneuvers equivalent to air jumps. 
+--
+If you're familiar with the concept of bunnyhopping, you can do that in our game as well! Bunnyhopping allows you to reach insane speeds.
+--
+You can use up- and downward dashes, both left and right sides only once in air. Each individual dash has an additional one second cooldown.
+--
+There's three different wall-jump techniques: Upwards, downwards or just rebound like a mirror reflection. Additionally you can combine dash with a wall-jump to propel yourself straight up or straight down from a wall.
+--
+In Core of Pulcher, horizontal velocity can at all times be redirected into vertical velocity and vice versa. Horizontal speed can be used to reaching higher via dashing upwards for example.
+--
+Although it exists, it's impossible to reach the speed limit of Core of Pulcher. Unless of course you have enough space. 
+--
+If you fall off a platform by accident, you have 400ms (0.4 sec) to recover via a jump.
+--
+Due to the momentum based gameplay and strong weapons of Core of Pulcher, it might not be wise to camp in one place for too long. Being slow makes you an easy target, plus it gives your opponent the opportunity to hog all the resources.
+--
+You can combine the splash-, thrust- or recoil boost of various weapons with your jumps to cover more distance or height than by normal means.
+--
+Collect armor and health to survive longer in fights and deny your opponent doing the same. Opponents that manage to stack up without interference might appear to be impervious to your damage. 
+--
+Mega Health spawns 35 seconds after picking it up. Remembering to come back for it in time will give you an edge in fights.
+--
+Gold and Silver armors spawns 25 seconds after picking them up. Coming back for the next spawn in time will give you an advantage in fights.
+--
+Powerups spawn 2 minutes after picking them up. Preparing for the next spawn will make all the difference in scoreboard.
+--
+Picking a Mega Health will give you an extra 100HP and increase your healing factor by +3HP/s. You can increase your healing factor by picking multiple Mega Healths. 
+--
+Gold armor has among the armors the strongest protection value. While taking damage you lose more armor than HP.
+--
+Each weapon has two fire modes, some of which can be used in a combo. Experiment with them to find your favorite tactics. 
+--
+Manshredder's melee mode deals more damage the more it is charged, however once it overloads it will kill anyone (including user) within close proximity.
+--
+Shooting Manshredder's high speed projectile at your enemies feet will send them flying. You can also use it to send yourself flying.
+--
+Spawn weapons are deliberately weak and lack decisive frag power, choose to pursue your opponent with them wisely. 
+--
+You can approximate your opponent's remaining HP from the intensity of their character's grunts and screams during fights. 
+--
+Fire cooldown is mostly ignored when switching weapons. If you have two weapons with long cooldown times, you can combo fire them and increase your practical rate of fire. 
+--
+Team mates are like extra hands, letting them have the stack and weapons that you don't need will improve your team play.
+--
+You won't get ammo from weapon pickup spots if you already have that weapon, however you can still pick it up and deny it from your opponents.
+--
+Weapons can easily run out of ammo during the heat of battle, remember to be observant of ammo pickups in every arena. 
+--
+When a player dies he will drop a backpack which contains all the ammo the player had.
+--
+If someone is better than you, don't automatically assume that he's cheating or call him names. This is not a kindergarten. 
+--
+In Core of Pulcher, resource control and movement skills are as important as accuracy. Excelling at only one department might not be enough.
+--
+Core of Pulcher aims to have a balance between execution and decision making, meaning someone with a better accuracy and movement might lose against someone with a better situational awareness and tactics. 
+--
+Strength powerup will quad-triple all the damage values. Which will render most of the weapons one hit kill. 
+--
+Velocity powerup will double the user's speed and weapon fire rate.
+--
+Players with Immortality powerup can't die. However they can lose health and in worst case scenario might end up having only 1HP left when the powerup wears off. 
+--
+If you have the Immortality powerup, you can never be telefragged. On the contrary, whoever gets teleported inside you will get gibbed instead! 
+--
+Camouflage powerup makes the user invisible and soundless. Only way to spot an invisible player is if someone has damaged them and made them squirt blood. Think predator. 
+--
+Camouflage powerup makes your fists deal double the damage. Going all ninja on your opponent will surely give you street cred. 
+--
+Time Master powerup freezes everyone except the user, who is then able to “free kick” their way through enemies for 15 seconds. OP you say? Make sure you or your team gets it then!
+--
+The public Core of Pulcher documentation can be found at: tinyurl.com/pul-docs
+--
+Check out the game we did for Game Jam @ Ludum Dare: ludumdare.com/compo/ludum-dare-33/?uid=14310
+
