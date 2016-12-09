@@ -31,14 +31,14 @@ III. THIRD PARTY CREDITS
 
 Read the "license.txt" for the third party legal notices
 of each member of this list:
-
+```
  ) ENET:  (Reliable UDP networking library)
  ) DEVIL: (Full featured image library)
  ) FreeType: (Rendering Fonts)
  ) GLEW: (OpenGL Extension Wrangler library)
  ) SDL, SDL_Image, SDL_Mixer (OS interface library)
  ) SimpleIni (INI parsing)
-
+```
 
 IV. CONTACT
 ===========================================================
